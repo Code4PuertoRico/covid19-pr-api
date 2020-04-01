@@ -10,6 +10,10 @@
 
 The data in this API was sourced from [The Department of Health of Puerto Rico](http://salud.gov.pr/). Data may have errors and/or omissions. 
 
+## Installation
+
+```Coming Soon```
+
 ### GET /cases
 
 Get all current published data about COVID-19 cases in Puerto Rico. 
