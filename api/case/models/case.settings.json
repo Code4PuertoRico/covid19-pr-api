@@ -1,0 +1,39 @@
+{
+  "kind": "collectionType",
+  "connection": "default",
+  "collectionName": "cases",
+  "info": {
+    "name": "Case"
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true
+  },
+  "attributes": {
+    "edad": {
+      "type": "integer"
+    },
+    "numero_de_caso_positivo": {
+      "type": "integer"
+    },
+    "sexo": {
+      "type": "enumeration",
+      "enum": [
+        "F",
+        "M"
+      ]
+    },
+    "region": {
+      "type": "string"
+    },
+    "resultado": {
+      "type": "boolean"
+    },
+    "fecha_de_envio_de_prueba": {
+      "type": "datetime"
+    },
+    "source": {
+      "type": "string"
+    }
+  }
+}
