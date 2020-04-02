@@ -4,11 +4,15 @@
 
 ![screenshot of covid-19 dataset](docs/covid19database.png)
 
-*Data will be uploaded daily from their [website](https://estadisticas.pr/en/covid-19). (Last Updated 4/1/20 7:00 AM).*
+*Data will be uploaded daily from their [website](https://estadisticas.pr/en/covid-19). (Last Updated 4/2/20 7:00 AM).*
 
 ## **Disclaimer:** 
 
 The data in this API was sourced from [The Department of Health of Puerto Rico](http://salud.gov.pr/). Data may have errors and/or omissions. 
+
+## Data Sources
+
+1. Official daily report from the [Puerto Rico Medical Task Force COVID-19](data/README.md)
 
 ## Installation
 
