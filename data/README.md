@@ -16,9 +16,10 @@ The data has been sourced from the official [Puerto Rico Medical Task Force Covi
 1. [03-31-2020](PuertoRicoTaskForce/3-31-2020/3-31-2020.md)
 1. [04-01-2020](PuertoRicoTaskForce/4-01-2020/04-01-2020.md)
 1. [04-02-2020](PuertoRicoTaskForce/4-02-2020/04-02-2020.md)
+1. [04-03-2020](PuertoRicoTaskForce/4-03-2020/04-03-2020.md)
 
 (Last updated: 04-03-2020, 7:00 AM)
 
 ## Want to add data sources?
-xs
+
 Open an [issue](https://github.com/Code4PuertoRico/covid19-pr-api/issues) to propose additional sources. 
