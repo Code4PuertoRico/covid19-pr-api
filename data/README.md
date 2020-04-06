@@ -17,8 +17,10 @@ The data has been sourced from the official [Puerto Rico Medical Task Force Covi
 1. [04-01-2020](PuertoRicoTaskForce/4-01-2020/04-01-2020.md)
 1. [04-02-2020](PuertoRicoTaskForce/4-02-2020/04-02-2020.md)
 1. [04-03-2020](PuertoRicoTaskForce/4-03-2020/04-03-2020.md)
+1. [04-04-2020](PuertoRicoTaskForce/4-04-2020/04-04-2020.md)
+1. [04-05-2020](PuertoRicoTaskForce/4-05-2020/04-05-2020.md)
 
-(Last updated: 04-03-2020, 7:00 AM)
+(Last updated: 04-06-2020, 7:00 AM)
 
 ## Want to add data sources?
 
