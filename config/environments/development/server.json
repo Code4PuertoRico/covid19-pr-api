@@ -1,11 +1,8 @@
 {
-  "host": "localhost",
-  "port": 1337,
+  "host": "${process.env.HOST || '0.0.0.0'}",
+  "port": "${process.env.PORT || 1337}",
   "proxy": {
-    "enabled": true,
-    "host": "159.65.219.121",
-    "port": 80,
-    "ssl": false
+    "enabled": false
   },
   "cron": {
     "enabled": false
